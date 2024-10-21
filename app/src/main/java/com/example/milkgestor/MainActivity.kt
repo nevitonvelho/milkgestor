@@ -60,7 +60,7 @@ fun Hero() {
         // Box no lado esquerdo com texto estilizado
         Box {
             Text(
-                text = "MilkGestor Oficial dd",
+                text = "MilkGestor",
                 fontSize = 24.sp, // Tamanho maior do texto
                 fontWeight = FontWeight.Bold // Texto em negrito
             )
